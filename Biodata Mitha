@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>BIODATA DIRI</title>
+</head>
+<body>
+<h1 align="center">BIODATA DIRI</h1>
+<table width="745" border="1" cellspacing="0" cellpadding="5" align="center">
+<tr align="center" bgcolor="pink">
+<td width="174">DATA DIRI</td>
+<td width="353">KETERANGAN</td>
+<td width="232">FOTO</td>
+</tr>
+<tr>
+<td>Nama</td>
+<td>Mitha Indriani Rahelia M</td>
+<td rowspan="10" align="center"><img src="C:\Users\VICTUS\Downloads/Foto Mitha.jpeg" width="210" height="313"></img>
+</td>
+</tr>
+<tr>
+<td>Nama Panggilan</td>
+<td>Mitha </td>
+</tr>
+<tr>
+<td> Asal </td>
+<td> Kalimantan Timur </td>
+</tr>
+<tr>
+<td>Jenis Kelamin</td>
+<td> Perempuan </td>
+</tr>
+<tr>
+<td> Pekerjaan</td>
+<td> Mahasiswa</td>
+</tr>
+<tr>
+<td>Jurusan </td>
+<td>Informatika</td>
+</tr>
+<tr>
+<td>Perguruan Tinggi</td>
+<td> Universitas Sanata Dharma </td>
+</tr>
+<tr>
+<td>Pendidikan yang ditempuh </td>
+<td> 
+<ul> 
+<li> TK St Fransiskus Assisi </li>
+ <li> SD St Fransiskus Assisi </li>
+ <li> SMP St Fransiskus Assisi </li>
+ <li> SMAN 1 Sangatta Utara </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Agama </td>
+<td>Kristen Protestan </td>
+</tr>
+<tr>
+<td>Hobi</td>
+<td>Dengarin Musik </td>
+</tr>
+</table>
+</body>
+</html>
